@@ -1,5 +1,6 @@
 {
   "name": "d3-bar",
+  "homepage": "https://plumsily.github.io/d3-gdp",
   "version": "1.0.0",
   "description": "D3 bar chart visualization app",
   "main": "index.js",
