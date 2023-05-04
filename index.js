@@ -94,14 +94,14 @@ gradient
   .append("stop")
   .attr("class", "start")
   .attr("offset", "0%")
-  .attr("stop-color", "#12E4A6")
+  .attr("stop-color", "#13ECD1")
   .attr("stop-opacity", 1);
 
 gradient
   .append("stop")
   .attr("class", "end")
   .attr("offset", "100%")
-  .attr("stop-color", "#50E412")
+  .attr("stop-color", "#93F20D")
   .attr("stop-opacity", 1);
 
 //Add data points
